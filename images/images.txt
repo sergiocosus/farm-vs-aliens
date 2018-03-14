@@ -1,0 +1,29 @@
+O background.png
+o tchicken.png
+o tgoose.png
+o tpig.png
+o achicken.png
+o tbull.png
+o tscarecrow.png
+o scarecrowa.png
+o scarecrowb.png
+o scarecrowc.png
+o tgoldengoose.png
+o lose.png
+o win.png
+o eggdead.png
+o goldegg.png
+o cow.png
+o eggpoint.png
+n tractor*.png 10
+n nalien*.png 18
+n ralien*.png 18
+n goose*.png 10
+n goldengoose*.png 10
+n chicken*.png 13
+n egg*.png 11	
+n greenalien*.png 10
+n balien*.png 10
+n pig*.png 19
+n bulla*.png 11
+n bullb*.png 4
